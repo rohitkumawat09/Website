@@ -1,0 +1,488 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins"
+}
+
+.head {
+    margin-left: 30px;
+    color: aliceblue;
+}
+
+.header {
+
+    background-color: #3d5a80;
+    width: 100%;
+    height: 700px;
+}
+
+.name {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.best ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 700px;
+    list-style: none;
+
+}
+
+.best li {
+    padding-top: 10px;
+}
+
+.best a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.home {
+    background-color: orangered;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.hr {
+    padding-top: 20px;
+}
+
+.your span {
+    color: orangered;
+}
+
+.next {
+    color: white;
+    margin-top: 200px;
+}
+
+.high img {
+    width: 325px;
+    padding-top: 90px;
+    height: 605px;
+}
+
+.developer {
+    width: 500px;
+}
+
+
+.less {
+    width: 600px;
+    margin-top: 30px;
+}
+
+.bulid a {
+    background-color: orangered;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+
+}
+
+.bulid {
+    margin-top: 50px;
+
+}
+
+.happy {
+    display: flex;
+    justify-content: space-evenly
+}
+
+.websites1 {
+    background-color: #153157;
+    width: 100%;
+    height: 419px;
+}
+
+
+.new img {
+    padding-top: 100px;
+    width: 250px;
+
+}
+
+.cat hr {
+    color: orange;
+    width: 200px;
+}
+
+.Touch {
+    color: white;
+    margin-top: 50px;
+}
+
+.display {
+    width: 500px;
+    margin-top: 30px;
+}
+
+.passinon {
+    display: flex;
+    justify-content: space-around;
+}
+
+.display1 {
+    margin-top: 30px;
+    width: 500px;
+}
+
+.user h1 {
+    padding-bottom: 10px;
+}
+
+.new {
+    position: relative;
+}
+
+.google {
+    position: absolute;
+    top: 200px;
+    left: 210px;
+
+}
+
+.one {
+    position: absolute;
+    left: 210px;
+    top: 100px;
+    bottom: 180px;
+}
+
+.two {
+    position: absolute;
+    top: 160px;
+    left: 100px;
+
+}
+
+.good {
+    position: absolute;
+    top: 100px;
+}
+
+.food {
+    position: absolute;
+    top: 200px;
+}
+
+.explicabo {
+    background-color: #3d5a80;
+    height: 300px;
+    width: 100%;
+}
+
+.have {
+    padding-top: 40px;
+    color: white;
+    text-align: center;
+
+}
+
+.have hr {
+
+    margin: auto;
+    width: 200px;
+
+
+}
+
+.center {
+    margin-top: 20px;
+}
+
+.solid {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.Home img {
+    width: 100px;
+}
+
+
+.solid {
+    margin-top: 50px;
+}
+
+.companies {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.recent h3 {
+    padding: 40px 0px 0px 85px;
+    color: white;
+    font-size: 25px;
+}
+
+.under {
+    padding-left: 80px;
+}
+
+.recent {
+    background-color: #293241;
+    width: 100%;
+    height: 750px;
+}
+
+.ecommerce p {
+    color: white;
+    padding-bottom: 8px;
+}
+
+
+.ecommerce {
+    height: 200px;
+    width: 340px;
+    margin-top: 50px;
+}
+
+.ecommerce img {
+    height: 100%;
+    width: 100%;
+}
+
+.maninthis {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.seemore a {
+    text-decoration: none;
+    color: #ee6c4d;
+    border: 1px solid #ee6c4d;
+    padding: 10px 35px;
+
+}
+
+.seemore {
+    padding-top: 70px;
+    text-align: center;
+}
+
+.dim {
+    height: 35px;
+    width: 35px;
+}
+
+
+.bat {
+    background-color: #0c111a;
+    width: 100%;
+    height: 500px;
+}
+
+.feature {
+    text-align: center;
+    color: white;
+}
+
+.centerr {
+
+    margin-top: 10px;
+}
+
+.worked {
+    color: white;
+}
+
+.Lorem {
+    padding-top: 20px;
+    width: 450px;
+}
+
+/* .space h6{
+margin-top: 10px;
+} */
+
+
+.modi {
+    width: 100%;
+    height: 100%;
+}
+
+.modi img {
+    border-radius: 50%;
+    height: 30px;
+}
+
+.non {
+    background-color: #282d35;
+    width: 490px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.non1 {
+    background-color: #282d35;
+    width: 490px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.space {
+    padding-left: 60px;
+    margin-top: 20px;
+}
+
+.Lorem {
+    padding-left: 10px;
+}
+
+.again {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+
+.can {
+    display: flex;
+    justify-content: space-around;
+    width: 30px;
+    padding-top: 20px;
+}
+
+.worked {
+    position: relative;
+}
+
+.modi {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.Company{
+    background-color: #153157;
+    width: 100%;
+    height: 416px;
+}
+.sed{
+    color:azure;
+    padding-top: 30px;
+    padding-left: 65px;
+}
+.page3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+
+.all input{
+    /* padding: 10px 190px ; */
+    width: 500px;
+    height:40px;
+}
+
+.emall input{
+    /* padding: 10px 190px ;   */
+    
+    width: 500px;
+    height:40px;
+}
+
+.all text{
+padding-right:260px;
+}
+
+.jk input{
+    width: 100%;
+    height: 140px;
+}
+.jk{
+    margin-top: 20px;
+}
+
+
+.jk textarea {
+width: 90%;
+height: 130px;
+margin-left: 70px;
+
+}
+
+
+.jk textarea{
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.hight a{
+text-decoration: none;
+background-color: orangered;
+border-radius: 5px;
+padding: 10px 30px 10px 30px ;
+}
+
+.hight{
+
+    padding-left: 60px;
+  padding-top: 40px;
+}
+
+
+.See{
+    background-color: #293241;
+    height: 160px;
+    width: 100%;
+}
+
+.tab{
+    padding-top: 50px;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    color:white;
+}
+
+
+.withme i{
+   width: 40px;
+   height: 200px; 
+   color: aqua;
+   font-size: 20px;
+}
+
+.reserved{
+    height: 30px;
+}
+
+.media1{
+    height: 30px;
+}
+
+.GOLD{
+    height: 30px;
+}
+.your{
+    height: 30px;
+}
+
+.withme i{
+    height: 30px;
+}
+.jk textarea{
+    background-color:rgba(58, 29, 29, 0.616) ;
+}
+
+.emall input{
+
+    background-color:rgba(58, 29, 29, 0.616) ;
+}
+.all input{
+  color:whitesmoke;
+    background-color:rgba(58, 29, 29, 0.616) ;  
+}
+
+.all{
+    color:white;
+}
